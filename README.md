@@ -11,3 +11,6 @@
 3. Navigate to the front end directory in your terminal, and run ``` npm install ```. This will create a ```package-lock.json``` file.
     * To get full functionality of the website your rails server needs to be running.
 4. After setting up back-end, run ```npm start``` from your terminal to access the app.
+
+## Demo 
+![](images/MultipassDemo.gif)
